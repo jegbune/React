@@ -1,1 +1,6 @@
-ReactDOM.render(<h1>Hello, Everyone!</h1>, document.querySelector("#root"))
+ReactDOM.render(
+<ul>
+    <li>Abigail</li>
+    <li>Esther</li>
+    <li>Hannah</li>
+    </ul>, document.querySelector("#root"))
