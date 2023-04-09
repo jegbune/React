@@ -4,4 +4,4 @@
 // h1.className = "header"
 // main.appendChild(h1)
 
-ReactDOM.render(<h1>This is a declarative way to program</h1>, document.querySelector("#root "))
+ReactDOM.render(<h1>This is a declarative way to program</h1>, document.querySelector("#root"))
